@@ -1,8 +1,8 @@
 <?php
 
-namespace PabloSanches\RegistroBR;
+namespace LojaVirtual\RegistroBR;
 
-use PabloSanches\RegistroBR\Exception\RegistroBRException;
+use LojaVirtual\RegistroBR\Exception\RegistroBRException;
 use TemplateFactory;
 
 abstract class CommandFactory

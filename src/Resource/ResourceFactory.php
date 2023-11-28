@@ -1,10 +1,10 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Resource;
+namespace LojaVirtual\RegistroBR\Resource;
 
-use PabloSanches\RegistroBR\EppClient;
-use PabloSanches\RegistroBR\Exception\RegistroBRException;
-use PabloSanches\RegistroBR\Helper;
+use LojaVirtual\RegistroBR\EppClient;
+use LojaVirtual\RegistroBR\Exception\RegistroBRException;
+use LojaVirtual\RegistroBR\Helper;
 
 abstract class ResourceFactory
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Resource;
+namespace LojaVirtual\RegistroBR\Resource;
 
-use PabloSanches\RegistroBR\BaseTesting;
-use PabloSanches\RegistroBR\EppClient;
+use LojaVirtual\RegistroBR\BaseTesting;
+use LojaVirtual\RegistroBR\EppClient;
 
 class PollTest extends BaseTesting
 {

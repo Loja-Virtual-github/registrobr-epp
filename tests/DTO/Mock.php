@@ -1,6 +1,6 @@
 <?php
 
-namespace PabloSanches\RegistroBR\DTO;
+namespace LojaVirtual\RegistroBR\DTO;
 
 class Mock extends AbstractDTO
 {

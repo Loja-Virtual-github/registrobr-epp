@@ -1,8 +1,8 @@
 <?php
 
-namespace PabloSanches\RegistroBR\DTO;
+namespace LojaVirtual\RegistroBR\DTO;
 
-use PabloSanches\RegistroBR\BaseTesting;
+use LojaVirtual\RegistroBR\BaseTesting;
 
 class DTOTest extends BaseTesting
 {

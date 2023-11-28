@@ -1,9 +1,9 @@
 <?php
 
-namespace PabloSanches\RegistroBR;
+namespace LojaVirtual\RegistroBR;
 
-use PabloSanches\RegistroBR\Resource\Contact;
-use PabloSanches\RegistroBR\Resource\ResourceFactory;
+use LojaVirtual\RegistroBR\Resource\Contact;
+use LojaVirtual\RegistroBR\Resource\ResourceFactory;
 
 class ResourceFactoryTest extends BaseTesting
 {

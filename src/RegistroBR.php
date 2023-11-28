@@ -1,10 +1,10 @@
 <?php
 
-namespace PabloSanches\RegistroBR;
+namespace LojaVirtual\RegistroBR;
 
-use PabloSanches\RegistroBR\Exception\RegistroBRException;
-use PabloSanches\RegistroBR\Resource\ResourceFactory;
-use PabloSanches\RegistroBR\Resource\ResourceInterface;
+use LojaVirtual\RegistroBR\Exception\RegistroBRException;
+use LojaVirtual\RegistroBR\Resource\ResourceFactory;
+use LojaVirtual\RegistroBR\Resource\ResourceInterface;
 
 final class RegistroBR
 {

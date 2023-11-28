@@ -1,8 +1,8 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Resource;
+namespace LojaVirtual\RegistroBR\Resource;
 
-use PabloSanches\RegistroBR\ResponseEpp;
+use LojaVirtual\RegistroBR\ResponseEpp;
 
 class Poll extends AbstractResource
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace PabloSanches\RegistroBR;
+namespace LojaVirtual\RegistroBR;
 
-use PabloSanches\RegistroBR\Resource\ResourceFactory;
+use LojaVirtual\RegistroBR\Resource\ResourceFactory;
 
 class EppClientTest extends BaseTesting
 {

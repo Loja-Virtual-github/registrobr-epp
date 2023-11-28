@@ -1,9 +1,9 @@
 <?php
 
-namespace PabloSanches\RegistroBR\DTO;
+namespace LojaVirtual\RegistroBR\DTO;
 
-use PabloSanches\RegistroBR\Exception\RegistroBRException;
-use PabloSanches\RegistroBR\Helper;
+use LojaVirtual\RegistroBR\Exception\RegistroBRException;
+use LojaVirtual\RegistroBR\Helper;
 
 abstract class DTOFactory
 {

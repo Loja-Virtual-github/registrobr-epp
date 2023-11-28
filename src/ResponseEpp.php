@@ -1,6 +1,6 @@
 <?php
 
-namespace PabloSanches\RegistroBR;
+namespace LojaVirtual\RegistroBR;
 
 class ResponseEpp implements ResponseInterface
 {

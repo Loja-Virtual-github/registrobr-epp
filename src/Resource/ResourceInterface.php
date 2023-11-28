@@ -1,8 +1,8 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Resource;
+namespace LojaVirtual\RegistroBR\Resource;
 
-use PabloSanches\RegistroBR\ResponseInterface;
+use LojaVirtual\RegistroBR\ResponseInterface;
 
 interface ResourceInterface
 {

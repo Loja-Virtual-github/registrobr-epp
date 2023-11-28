@@ -1,15 +1,15 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Resource;
+namespace LojaVirtual\RegistroBR\Resource;
 
-use PabloSanches\RegistroBR\CommandFactory;
-use PabloSanches\RegistroBR\DTO\DTOFactory;
-use PabloSanches\RegistroBR\DTO\DTOInterface;
-use PabloSanches\RegistroBR\EppClient;
-use PabloSanches\RegistroBR\Exception\RegistroBRException;
-use PabloSanches\RegistroBR\ResponseEpp;
-use PabloSanches\RegistroBR\ResponseInterface;
-use PabloSanches\RegistroBR\Template;
+use LojaVirtual\RegistroBR\CommandFactory;
+use LojaVirtual\RegistroBR\DTO\DTOFactory;
+use LojaVirtual\RegistroBR\DTO\DTOInterface;
+use LojaVirtual\RegistroBR\EppClient;
+use LojaVirtual\RegistroBR\Exception\RegistroBRException;
+use LojaVirtual\RegistroBR\ResponseEpp;
+use LojaVirtual\RegistroBR\ResponseInterface;
+use LojaVirtual\RegistroBR\Template;
 
 abstract class AbstractResource implements ResourceInterface
 {

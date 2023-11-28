@@ -1,12 +1,12 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Resource;
+namespace LojaVirtual\RegistroBR\Resource;
 
-use PabloSanches\RegistroBR\CommandFactory;
-use PabloSanches\RegistroBR\EppClient;
-use PabloSanches\RegistroBR\Exception\RegistroBRException;
-use PabloSanches\RegistroBR\Template;
-use PabloSanches\RegistroBR\TemplateInterface;
+use LojaVirtual\RegistroBR\CommandFactory;
+use LojaVirtual\RegistroBR\EppClient;
+use LojaVirtual\RegistroBR\Exception\RegistroBRException;
+use LojaVirtual\RegistroBR\Template;
+use LojaVirtual\RegistroBR\TemplateInterface;
 
 class Mock extends AbstractResource
 {

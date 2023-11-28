@@ -1,6 +1,6 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Resource;
+namespace LojaVirtual\RegistroBR\Resource;
 
 class Contact extends AbstractResource
 {

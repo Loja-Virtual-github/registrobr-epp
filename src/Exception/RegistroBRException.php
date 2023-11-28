@@ -1,6 +1,6 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Exception;
+namespace LojaVirtual\RegistroBR\Exception;
 
 class RegistroBRException extends \Exception implements \Throwable
 {

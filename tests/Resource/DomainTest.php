@@ -1,10 +1,10 @@
 <?php
 
-namespace PabloSanches\RegistroBR\Resource;
+namespace LojaVirtual\RegistroBR\Resource;
 
-use PabloSanches\RegistroBR\BaseTesting;
-use PabloSanches\RegistroBR\EppClient;
-use PabloSanches\RegistroBR\Helper;
+use LojaVirtual\RegistroBR\BaseTesting;
+use LojaVirtual\RegistroBR\EppClient;
+use LojaVirtual\RegistroBR\Helper;
 
 class DomainTest extends BaseTesting
 {

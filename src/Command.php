@@ -5,7 +5,7 @@ namespace LojaVirtual\RegistroBR;
 use JsonException;
 use LojaVirtual\RegistroBR\Exception\RegistroBRException;
 
-readonly class Command implements CommandInterface
+class Command implements CommandInterface
 {
     public function __construct(
         private EppClient $eppClient,
